@@ -5,20 +5,20 @@ import json
 
 #=================================== Plese provide the absolute path ==============================================================================
 #================================  path of the extension files (folder in extension_files) =======================================================
-path_imagefile = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\extension_files\image.txt"
-path_audiofile = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\extension_files\audio.txt"
-path_videofile = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\extension_files\video.txt"
-path_docfile = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\extension_files\doc.txt"
+path_imagefile = r"D:\MyDownload\FileSorter\main_py_mini_prj\extension_files\image.txt"
+path_audiofile = r"D:\MyDownload\FileSorter\main_py_mini_prj\extension_files\audio.txt"
+path_videofile = r"D:\MyDownload\FileSorter\main_py_mini_prj\extension_files\video.txt"
+path_docfile = r"D:\MyDownload\FileSorter\main_py_mini_prj\extension_files\doc.txt"
 #=============================================================================================================================================
 
 #====================================== path for images in GUI (folder in prj_pics) ========================================================
-path_iconimage = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\prj_pics\icon.ico"
-path_logo_icon = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\prj_pics\folder.png"
-path_image_icon = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\prj_pics\image.png"
-path_audio_icon = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\prj_pics\audio.png"
-path_video_icon = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\prj_pics\videos.png"
-path_document_icon = r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\prj_pics\documents.png"
-path_other_icon =r"C:\Users\Prathamesh Maharnur\Desktop\main_py_mini_prj\prj_pics\other.png"
+path_iconimage = r"D:\MyDownload\FileSorter\main_py_mini_prj\prj_pics\icon.ico"
+path_logo_icon = r"D:\MyDownload\FileSorter\main_py_mini_prj\prj_pics\folder.png"
+path_image_icon = r"D:\MyDownload\FileSorter\main_py_mini_prj\prj_pics\image.png"
+path_audio_icon = r"D:\MyDownload\FileSorter\main_py_mini_prj\prj_pics\audio.png"
+path_video_icon = r"D:\MyDownload\FileSorter\main_py_mini_prj\prj_pics\videos.png"
+path_document_icon = r"D:\MyDownload\FileSorter\main_py_mini_prj\prj_pics\documents.png"
+path_other_icon =r"D:\MyDownload\FileSorter\main_py_mini_prj\prj_pics\other.png"
 #======================================================================================================================
 
 class Sorting_App:
